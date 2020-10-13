@@ -22,7 +22,7 @@
         <tensorflow.hadoop.version>1.0-06262017-SNAPSHOT</tensorflow.hadoop.version>
         <yarn.api.version>2.7.3</yarn.api.version>
         <protobuf.version>3.3.1</protobuf.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <repositories>
